@@ -1,0 +1,23 @@
+[
+    {
+        "1": {
+            "input": "HELLO",
+            "output": "N",
+            "type": "CLI"
+        }
+    },
+    {
+        "2": {
+            "input": "MALAYALAM",
+            "output": "Y",
+            "type": "STDIN"
+        }
+    },
+    {
+        "3": {
+            "input": "MADAM",
+            "output": "Y",
+            "type": "STDIN"
+        }
+    }
+]
